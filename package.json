@@ -1,7 +1,7 @@
 {
   "name": "11-daftar-situs-judi-slot-deposit-pulsa-10rb",
   "main": "./lib/11-daftar-situs-judi-slot-deposit-pulsa-10rb",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Perkumpulan 11 daftar situs judi online slot deposit pulsa 10rb tanpa potongan metode gampang maxwin terbaru 2022",
   "keywords": [
     "slot deposit pulsa",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
