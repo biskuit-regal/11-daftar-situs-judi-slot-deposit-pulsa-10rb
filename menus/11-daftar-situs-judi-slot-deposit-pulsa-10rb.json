@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 11-daftar-situs-judi-slot-deposit-pulsa-10rb",
+        "command": "11-daftar-situs-judi-slot-deposit-pulsa-10rb:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "11-daftar-situs-judi-slot-deposit-pulsa-10rb",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "11-daftar-situs-judi-slot-deposit-pulsa-10rb:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
